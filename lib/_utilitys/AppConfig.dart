@@ -14,3 +14,6 @@ const Color markTitulo = Color(0xFF0acdad);
 /// Sizes
 double width(BuildContext context) => MediaQuery.of(context).size.width;
 double height(BuildContext context) => MediaQuery.of(context).size.height;
+
+///Images Paths
+const String companyMascote = "assets/image/mascote.png";

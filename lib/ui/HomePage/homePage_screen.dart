@@ -172,10 +172,7 @@ class _HomePageState extends State<HomePage> {
             child: FloatingActionButton(
               backgroundColor: markTitulo,
               onPressed: () {},
-              child: Icon(
-                Icons.add,
-                color: Colors.white,
-              ),
+              child:  Image.asset(companyMascote),
               // elevation: 5.0,
             ),
           ),

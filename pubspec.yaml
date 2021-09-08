@@ -40,3 +40,4 @@ flutter:
 
   assets:
     - lib/json/json_wakkefun.json
+    - assets/image/mascote.png
